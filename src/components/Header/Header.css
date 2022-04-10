@@ -1,0 +1,9 @@
+.navigation a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    margin-left: 10px;
+}
+.navigation a:hover{
+    color: goldenrod;
+}
